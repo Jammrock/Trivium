@@ -1,12 +1,10 @@
 @echo OFF
 
 REM The file server FQDN
-REM SET fqdn=Orrstown.com
-SET fqdn=hs2.kehr.home
+SET fqdn=Domain.com
 
 REM Name of the share
-REM SET share=Shared
-SET share=Music
+SET share=Shared
 
 REM Drive letter for the share
 SET drvLtr=X:
